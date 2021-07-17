@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+
+#background {
+    background-image: url(img/background1.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+#message {
+    width: 900px;
+    font-size: 54px;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+}
